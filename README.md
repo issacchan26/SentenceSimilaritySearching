@@ -1,4 +1,4 @@
-# Name matching with pre-trained Sentence Transformer
+# Sentence/Name matching with pre-trained Sentence Transformer
 This repo provides similarity searching for sentence/name, it includes two versions of script, name-match.py and name-match-cmd.py  
 Both of them create same result, name-match.py is built for using as function and further modifying, while name-match-cmd.py supports command line operation only. The dockerfile also included for building docker image.
 
